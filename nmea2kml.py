@@ -116,7 +116,7 @@ def main():
                  (fn, start_point, end_point, fn, point_list))
         fo.close()
     else:
-        print('this.py nema.log')
+        print('this.py nmea.log')
 
 if __name__ == "__main__":
     main()
